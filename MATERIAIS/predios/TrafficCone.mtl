@@ -1,0 +1,10 @@
+# Colors sampled from the supplied colormap.png through per-face UVs.
+
+newmtl Orange
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+
+newmtl White
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+

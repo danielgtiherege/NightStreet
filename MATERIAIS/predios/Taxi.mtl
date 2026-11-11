@@ -1,0 +1,26 @@
+# Colors sampled from the supplied colormap.png through per-face UVs.
+
+newmtl Tire
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+
+newmtl Silver
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+
+newmtl Yellow
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+
+newmtl Glass
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+
+newmtl White
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+
+newmtl Red
+Kd 1.0 1.0 1.0
+map_Kd Textures/colormap.png
+
