@@ -14,5 +14,5 @@ Features include:
 
 Use:
 
-ESC exit | ESPACO pause | R restart path | V VSync | UP/DOWN speed | F wire-frame | C culling
+ESC exit | SPACE pause | R restart path | V VSync | UP/DOWN speed | F wire-frame | C culling
 ALT+ENTER OR double mouse click: FullScreen/Window. 
