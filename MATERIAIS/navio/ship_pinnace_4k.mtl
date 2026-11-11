@@ -1,0 +1,30 @@
+# Texturas de cor recuperadas dos materiais originais do Blender.
+
+newmtl ship_pinnace_aft
+Kd 1.0 1.0 1.0
+map_Kd textures/ship_pinnace_aft_diff_4k.png
+
+newmtl ship_pinnace_deck
+Kd 1.0 1.0 1.0
+map_Kd textures/ship_pinnace_deck_diff_4k.png
+
+newmtl ship_pinnace_details
+Kd 1.0 1.0 1.0
+map_Kd textures/ship_pinnace_details_diff_4k.png
+
+newmtl ship_pinnace_hull
+Kd 1.0 1.0 1.0
+map_Kd textures/ship_pinnace_hull_diff_4k.png
+
+newmtl ship_pinnace_interior
+Kd 1.0 1.0 1.0
+map_Kd textures/ship_pinnace_interior_diff_4k.png
+
+newmtl ship_pinnace_rigging
+Kd 1.0 1.0 1.0
+map_Kd textures/ship_pinnace_rigging_diff_4k.png
+
+newmtl ship_pinnace_sails
+Kd 1.0 1.0 1.0
+map_Kd textures/ship_pinnace_sails_diff_4k.png
+
